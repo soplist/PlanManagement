@@ -1,0 +1,16 @@
+F:\PlanManagement\UI\bin\Debug\UI.exe.config
+F:\PlanManagement\UI\bin\Debug\UI.exe
+F:\PlanManagement\UI\bin\Debug\UI.pdb
+F:\PlanManagement\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+F:\PlanManagement\UI\obj\Debug\UI.Properties.Resources.resources
+F:\PlanManagement\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+F:\PlanManagement\UI\obj\Debug\UI.exe
+F:\PlanManagement\UI\obj\Debug\UI.pdb
+F:\PlanManagement\UI\bin\Debug\Model.dll
+F:\PlanManagement\UI\bin\Debug\Tool.dll
+F:\PlanManagement\UI\bin\Debug\Model.pdb
+F:\PlanManagement\UI\bin\Debug\Tool.pdb
+F:\PlanManagement\UI\obj\Debug\UI.Main.resources
+F:\PlanManagement\UI\obj\Debug\UI.PlanClassControl.resources
+F:\PlanManagement\UI\obj\Debug\UI.NewPlanInitParameterForm.resources
+F:\PlanManagement\UI\obj\Debug\UI.AddPlanForm.resources

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<strings>
+  <string key="addNewPlan">添加新计划</string>
+  <string key="planName">计划名称</string>
+  <string key="planStartDate">计划开始时间</string>
+  <string key="planEndDate">计划结束时间</string>
+  <string key="ok">确定</string>
+  <string key="cancel">取消</string>
+  <string key="exception">异常</string>
+  <string key="exception1">请输入新计划名称</string>
+  <string key="exception2">时间不在范围之内</string>
+  <string key="time">时间</string>
+  <string key="plan">计划</string>
+</strings>

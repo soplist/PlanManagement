@@ -1,0 +1,5 @@
+F:\PlanManagement\Model\bin\Debug\Model.dll
+F:\PlanManagement\Model\bin\Debug\Model.pdb
+F:\PlanManagement\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+F:\PlanManagement\Model\obj\Debug\Model.dll
+F:\PlanManagement\Model\obj\Debug\Model.pdb
